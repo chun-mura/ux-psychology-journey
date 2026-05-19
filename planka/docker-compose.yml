@@ -23,6 +23,8 @@ services:
   db:
     image: postgres:14-alpine
     restart: unless-stopped
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
     environment:
       - POSTGRES_DB=${POSTGRES_DB:-planka}
       - POSTGRES_USER=${POSTGRES_USER:-planka}
