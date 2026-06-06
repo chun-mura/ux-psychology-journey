@@ -56,7 +56,7 @@ SaaS プロダクトのオンボーディングを3サービス選んで比較�
 
 ## 参考リソース
 
-- NNg: Onboarding UX — オンボーディング研究（無料）
+- [NNg: Mobile-App Onboarding](https://www.nngroup.com/articles/mobile-app-onboarding/) — オンボーディング研究（無料）
 - original_output.md「オンボーディングフロー設計、Hook Modelに基づく習慣化設計」
 
 **目安合計：4〜5時間**（動画活用で短縮可）

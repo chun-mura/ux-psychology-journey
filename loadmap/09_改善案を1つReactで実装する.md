@@ -55,7 +55,7 @@ Issue #7 または #5 の Figma 改善案を画面に表示しながらコーデ
 
 ### ステップ5：アクセシビリティチェックをする（30分）
 
-Storybook の a11y アドオン を使う、または Chrome の Lighthouse でチェックする。
+[Storybook](https://storybook.js.org/) の [a11y アドオン](https://storybook.js.org/docs/writing-tests/accessibility) を使う、または Chrome の [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) でチェックする。
 
 違反があれば修正してからコミットする（aria-label / role / キーボード操作を確認）。
 
@@ -71,8 +71,8 @@ Storybook の a11y アドオン を使う、または Chrome の Lighthouse で�
 
 ## 参考リソース
 
-- Storybook 公式 — コンポーネント開発環境
-- axe-core — アクセシビリティ自動検査
+- [Storybook 公式](https://storybook.js.org/) — コンポーネント開発環境
+- [axe-core](https://github.com/dequelabs/axe-core) — アクセシビリティ自動検査
 - original_output.md「コンポーネントライブラリ構築」
 
 **目安合計：5〜6時間**

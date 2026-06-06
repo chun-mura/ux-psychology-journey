@@ -10,6 +10,13 @@ STP（Segmentation / Targeting / Positioning）フレームワークを整理し
 
 まず「STPはターゲットを絞るための3段階の意思決定プロセス」と理解する。
 
+**読む順序（合計30〜40分）：**
+
+1. [Salesforce: STP分析とは？](https://www.salesforce.com/jp/blog/jp-stp-analysis/) — S / T / P の定義と流れ（無料・日本語）
+2. 『[USJを劇的に変えた、たった1つの考え方](https://www.kadokawa.co.jp/product/321512000336/)』の序章〜第2章 — 「消費者視点」「WHO / WHAT / HOW」で STP を実務に接続する
+
+STP の3段階：
+
 1. **Segmentation**：市場を何らかの軸で分けて地図を作る
 2. **Targeting**：その中でどのセグメントを狙うかを選ぶ
 3. **Positioning**：選んだセグメントの中で「どう見られたいか」を決める
@@ -19,6 +26,8 @@ Segmentation の3軸を覚える：
 - デモグラフィック（年齢・性別・職業・収入）
 - サイコグラフィック（価値観・ライフスタイル・課題意識）
 - 行動（購買頻度・利用シーン・得たいベネフィット）
+
+残り20分は、上記3軸を自分の言葉で1行ずつメモする。
 
 ### ステップ2：実在サービスのSTPを逆算する（1時間）
 
@@ -70,8 +79,9 @@ Issue #2（Fogg BM）の知識を使って接続する。
 
 ## 参考リソース
 
-- 書籍『USJを劇的に変えた、たった1つの考え方』（森岡毅）
-- 書籍『実戦マーケティング戦略』（佐藤義典）
+- [Salesforce: STP分析とは？](https://www.salesforce.com/jp/blog/jp-stp-analysis/) — STP入門（無料・日本語）
+- 書籍『[USJを劇的に変えた、たった1つの考え方](https://www.kadokawa.co.jp/product/321512000336/)』（森岡毅）— ステップ1・2向け
+- 書籍『[実戦マーケティング戦略](https://jmam.shop/shopdetail/000000003026/)』（佐藤義典）— **任意・深掘り用**（ステップ3の Targeting 評価・Positioning を数値化したい場合）
 - original_output.md「マーケティングの全体像把握」
 
 **目安合計：3〜3.5時間**

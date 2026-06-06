@@ -8,7 +8,7 @@ BJ Fogg の Behavior Model「B=MAP」（Behavior = Motivation × Ability × Prom
 
 ### ステップ1：理論インプット（1時間）
 
-Stanford Behavior Design Lab のサイトで無料コンテンツを読む。
+[Stanford Behavior Design Lab](https://behaviordesign.stanford.edu/) のサイトで無料コンテンツを読む。
 
 特に「Behavior Design Boot Camp」の概念説明部分が簡潔でわかりやすい。
 
@@ -65,7 +65,7 @@ Abilityを下げている摩擦を探すのが核心。以下の画面から選�
 
 ## 参考リソース
 
-- Stanford Behavior Design Lab — BJ Fogg 公式（無料）
+- [Stanford Behavior Design Lab](https://behaviordesign.stanford.edu/) — BJ Fogg 公式（無料）
 - Tiny Habits: The Small Steps That Change Everything — Fogg の実践書
 - original_output.md「BJ Fogg's Behavior Model」
 
