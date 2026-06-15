@@ -14,11 +14,11 @@ Nir Eyal の Hook Model（Trigger → Action → Variable Reward → Investment�
 
 * [x] 1. [How to Manufacture Desire](https://www.nirandfar.com/how-to-manufacture-desire/) — 4ステップの概要
 
-* [ ] 2. [Habits Begin with a Trigger](https://www.nirandfar.com/how-to-trigger-product-usage-that-sticks/) — 外部→内部Triggerへの転換
+* [x] 2. [Habits Begin with a Trigger](https://www.nirandfar.com/how-to-trigger-product-usage-that-sticks/) — 外部→内部Triggerへの転換
 
-* [ ] 3. [Want To Hook Users? Drive Them Crazy](https://www.nirandfar.com/want-to-hook-your-users-drive-them-crazy/) — Variable Reward の Hunt/Self/Tribe
+* [x] 3. [Want To Hook Users? Drive Them Crazy](https://www.nirandfar.com/want-to-hook-your-users-drive-them-crazy/) — Variable Reward の Hunt/Self/Tribe
 
-* [ ] 4. [Make Your Users Do the Work](https://www.nirandfar.com/makeyourusersdothework/) — Investment が次の Trigger を強化する仕組み
+* [x] 4. [Make Your Users Do the Work](https://www.nirandfar.com/makeyourusersdothework/) — Investment が次の Trigger を強化する仕組み
 
 補足：[The Billion Dollar Mind Trick](https://www.nirandfar.com/billion-dollar-mind-trick-2/) は内部Triggerを深掘りしたい場合に読む。
 
